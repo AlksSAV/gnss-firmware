@@ -1,26 +1,26 @@
 ﻿# GNSS Firmware Repository
 
-Репозиторий содержит прошивки для GNSS-приёмников различных производителей.
+This repository contains firmwares for GNSS receivers from various manufacturers.
 
-## Структура
+## Structure
 
 ### [u-blox](Ublox/)
-Прошивки для GNSS-приёмников **u-blox** (серии NEO, MAX, FARA, ZED и др.).
+Firmwares for **u-blox** GNSS receivers.
 
 ### [Unicore](Unicore/)
-Прошивки для GNSS-приёмников **UnicoreMicro** (серии UM5, UM6, UM9 и др.).
+Firmwares for **UnicoreMicro** GNSS receivers.
 
 ### [Septentrio](septentrio/)
-Прошивки для GNSS-приёмников **Septentrio** (серии mosaic-X5, mosaic-go, Pola и др.).
+Firmwares for **Septentrio** GNSS receivers.
 
-## Использование
+## Usage
 
-1. Перейдите в нужную папку в зависимости от производителя приёмника.
-2. Скачайте необходимую прошивку.
-3. Следуйте инструкции производителя для загрузки прошивки на устройство.
+1. Navigate to the appropriate folder depending on the receiver manufacturer.
+2. Download the required firmware.
+3. Follow the manufacturer's instructions to flash the device.
 
-## Примечания
+## Notes
 
-- Убедитесь, что версия прошивки совместима с вашей моделью приёмника.
-- Перед обновлением прошивки рекомендуется сделать резервную копию настроек устройства.
-- Прошивки предоставлены в исходном виде без каких-либо гарантий.
+- Make sure the firmware version is compatible with your receiver model.
+- It is recommended to back up device settings before updating the firmware.
+- Firmwares are provided as-is without any warranties.
