@@ -8,10 +8,16 @@ This repository contains firmwares for GNSS receivers from various manufacturers
 Firmwares for **u-blox** GNSS receivers.
 
 ### [Unicore](Unicore/)
-Firmwares for **UnicoreMicro** GNSS receivers.
+Firmwares for **Unicore** GNSS receivers.
 
 ### [Septentrio](septentrio/)
 Firmwares for **Septentrio** GNSS receivers.
+
+### [NovaTel](novatel/)
+Firmwares for **NovaTel** GNSS receivers.
+
+### [SinoGNSS](sinognss/)
+Firmwares for **SinoGNSS** GNSS receivers.
 
 ## Usage
 
